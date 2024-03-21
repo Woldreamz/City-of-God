@@ -14,7 +14,7 @@
             ans: "Yes, City of God offers a free version with basic features. There is also a premium subscription that unlocks additional games and advanced workout tracking.",
         },
         {
-            question: "What types of workouts does Swoley Moley offer?",
+            question: "What types of workouts does City of God offer?",
             ans: "City of God offers a variety of workouts, including cardio, strength training, and flexibility exercises. The workouts are designed to be engaging and entertaining.",
         },
         {
@@ -22,7 +22,7 @@
             ans: "Yes, City of God supports integration with popular fitness trackers, allowing you to sync your workout data and track your progress seamlessly.",
         },
         {
-            question: "Are there multiplayer features in Swoley Moley?",
+            question: "Are there multiplayer features in City of God?",
             ans: "Yes, City of God includes multiplayer challenges, allowing you to compete with friends or join group workouts for a more interactive and social experience.",
         },
         {
