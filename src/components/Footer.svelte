@@ -6,7 +6,7 @@
             <h1 class="font-semibold">
                 City Of <span class="text-indigo-400">God</span>
             </h1>
-            <p>©2023 CITY OF GOD LTD. All rights reserved.</p>
+            <p>©2023 NenyeFit Gym LTD. All rights reserved.</p>
         </div>
         <div class="flex flex-col gap-4">
             <p class="font-bold poppins text-base sm:text-lg">Support</p>

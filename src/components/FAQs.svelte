@@ -2,45 +2,45 @@
     import SectionWrapper from "./SectionWrapper.svelte";
     let faqs = [
         {
-            question: "What is City of God?",
-            ans: "City of God is a fun fitness app designed to make your workouts enjoyable by incorporating interactive games and challenges.",
+            question: "What is NenyeFit Gym?",
+            ans: "NenyeFit Gym is a fun fitness app designed to make your workouts enjoyable by incorporating interactive games and challenges.",
         },
         {
-            question: "How do I download City of God?",
-            ans: "You can download City of God from the App Store (for iOS) or Google Play Store (for Android) on your mobile device.",
+            question: "How do I download NenyeFit Gym?",
+            ans: "You can download NenyeFit Gym from the App Store (for iOS) or Google Play Store (for Android) on your mobile device.",
         },
         {
-            question: "Is City of God free to use?",
-            ans: "Yes, City of God offers a free version with basic features. There is also a premium subscription that unlocks additional games and advanced workout tracking.",
+            question: "Is NenyeFit Gym free to use?",
+            ans: "Yes, NenyeFit Gym offers a free version with basic features. There is also a premium subscription that unlocks additional games and advanced workout tracking.",
         },
         {
-            question: "What types of workouts does City of God offer?",
-            ans: "City of God offers a variety of workouts, including cardio, strength training, and flexibility exercises. The workouts are designed to be engaging and entertaining.",
+            question: "What types of workouts does NenyeFit Gym offer?",
+            ans: "NenyeFit Gym offers a variety of workouts, including cardio, strength training, and flexibility exercises. The workouts are designed to be engaging and entertaining.",
         },
         {
-            question: "Can I connect City of God to my fitness tracker?",
-            ans: "Yes, City of God supports integration with popular fitness trackers, allowing you to sync your workout data and track your progress seamlessly.",
+            question: "Can I connect NenyeFit Gym to my fitness tracker?",
+            ans: "Yes, NenyeFit Gym supports integration with popular fitness trackers, allowing you to sync your workout data and track your progress seamlessly.",
         },
         {
-            question: "Are there multiplayer features in City of God?",
-            ans: "Yes, City of God includes multiplayer challenges, allowing you to compete with friends or join group workouts for a more interactive and social experience.",
+            question: "Are there multiplayer features in NenyeFit Gym?",
+            ans: "Yes, NenyeFit Gym includes multiplayer challenges, allowing you to compete with friends or join group workouts for a more interactive and social experience.",
         },
         {
-            question: "How does City of God motivate users to stay active?",
-            ans: "City of God employs a reward system, where users earn points and achievements for completing workouts. These rewards can be used to unlock new levels, challenges, and in-app content.",
+            question: "How does NenyeFit Gym motivate users to stay active?",
+            ans: "NenyeFit Gym employs a reward system, where users earn points and achievements for completing workouts. These rewards can be used to unlock new levels, challenges, and in-app content.",
         },
         {
-            question: "Can I customize my workouts in City of God?",
-            ans: "Absolutely! City of God allows users to customize their workouts based on personal preferences, fitness goals, and available equipment.",
+            question: "Can I customize my workouts in NenyeFit Gym?",
+            ans: "Absolutely! NenyeFit Gym allows users to customize their workouts based on personal preferences, fitness goals, and available equipment.",
         },
         {
-            question: "Is there a beginner-friendly mode in City of God?",
-            ans: "Yes, City of God offers a beginner-friendly mode with easier exercises and lower intensity workouts, making it suitable for users at various fitness levels.",
+            question: "Is there a beginner-friendly mode in NenyeFit Gym?",
+            ans: "Yes, NenyeFit Gym offers a beginner-friendly mode with easier exercises and lower intensity workouts, making it suitable for users at various fitness levels.",
         },
         {
             question:
-                "How often should I use City of God for optimal results?",
-            ans: "The frequency of City of God workouts depends on your fitness goals. It is recommended to engage in at least 3-5 sessions per week for noticeable results.",
+                "How often should I use NenyeFit Gym for optimal results?",
+            ans: "The frequency of NenyeFit Gym workouts depends on your fitness goals. It is recommended to engage in at least 3-5 sessions per week for noticeable results.",
         },
     ];
 </script>

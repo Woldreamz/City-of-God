@@ -9,7 +9,7 @@
                 "Community challenges",
                 "Every workout is new and exciting",
             ],
-            description: "City of God ensures all users have the information they need to train safely and train effectively",
+            description: "NenyeFit Gym ensures all users have the information they need to train safely and train effectively",
             imgUrl: "assets/selection.png",
         },
         {
