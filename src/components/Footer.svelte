@@ -4,7 +4,7 @@
     >
         <div class="flex flex-col gap-4 md:col-span-2">
             <h1 class="font-semibold">
-                City Of <span class="text-indigo-400">God</span>
+                NenyeFit <span class="text-indigo-400">Gym</span>
             </h1>
             <p>©2023 NenyeFit Gym LTD. All rights reserved.</p>
         </div>
